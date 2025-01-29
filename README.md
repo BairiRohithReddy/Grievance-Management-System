@@ -1,4 +1,3 @@
-```markdown
 # Grievance Management System
 
 A web-based application built with Streamlit and MySQL for managing user complaints and grievances efficiently.
